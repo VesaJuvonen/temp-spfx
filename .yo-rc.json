@@ -1,0 +1,24 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "MyFirstACE",
+    "componentType": "adaptiveCardExtension",
+    "aceTemplateType": "PrimaryText",
+    "componentName": "HelloWorld",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.0",
+    "libraryName": "my-first-ace",
+    "libraryId": "5e345189-45b7-451b-9a0a-40d1556e3df7",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionShortDescription": "MyFirstACE description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  }
+}
